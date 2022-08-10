@@ -1,1 +1,69 @@
-// TODO
+.container {
+    height: calc(100vh - 8rem);
+    padding-bottom: 2rem;
+}
+
+.content {
+    max-width: 720px;
+    padding: 0 2rem;
+    margin: 0 auto;
+    cursor: pointer;
+
+    & + .content {
+        margin-bottom: 2.4rem;
+    }
+
+    a {
+        transition: 0.3s;
+
+        &:hover {
+            filter:brightness(0.8); 
+        }
+    }
+
+    strong {
+        font-size: 1.75rem;
+        color: var(--gray-100);
+        font-weight: 700;
+    }
+
+    .subtitle {
+        font-size: 1.125rem;
+        color: var(--gray-300);
+        line-height: 22px;
+        margin-top: 0.8rem;
+        text-align: justify;
+    }
+
+    div {
+        display: flex;
+        align-items: center;
+        padding: 1rem 0;
+        margin-bottom: 2.4rem;
+
+        time {
+            font-size: 0.875rem;
+            margin-right: 16px;
+            padding: 5px;
+        }
+
+        p {
+            font-size: 0.875rem;
+            padding: 5px;
+        }
+    }
+
+    button {
+        border: 0;
+        background: transparent;
+        font-size: 1.125rem;
+        color: var(--pink-500);
+        font-weight: 600;
+        
+        transition: 0.3s;
+
+        &:hover {
+            filter:brightness(0.9);
+        }
+    }
+}
