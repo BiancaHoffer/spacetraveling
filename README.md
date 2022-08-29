@@ -17,22 +17,6 @@
 
 <h3>🏁 Start</h3> 
 
- ```
- # clonar repositório
- $ git clone https://github.com/BiancaHoffer/spacetraveling.git
- 
- # acessar pasta
- $ cd spacetraveling
- 
- # baixar dependências
- $ yarn add
- 
- # iniciar projeto
- $ yarn dev
- 
-```
-
-
 ```bash
  # clonar repositório
  $ git clone https://github.com/BiancaHoffer/spacetraveling.git
