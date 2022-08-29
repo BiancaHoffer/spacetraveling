@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![space-editado](https://user-images.githubusercontent.com/99914904/187269698-c4caae3c-4c89-408b-ad37-c0d269a60914.png) ![2](https://user-images.githubusercontent.com/99914904/187269784-c16fff95-fdfd-4205-ad4d-3c511700df50.png)
+![space-editado](https://user-images.githubusercontent.com/99914904/187269698-c4caae3c-4c89-408b-ad37-c0d269a60914.png) ![space-editado-2](https://user-images.githubusercontent.com/99914904/187269861-1779afc2-cdd1-498a-8182-5012ef7daa19.png)
 
 </div>
 
