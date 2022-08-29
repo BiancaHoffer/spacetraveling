@@ -4,8 +4,7 @@
 
 <div align="center">
 
-![1](https://user-images.githubusercontent.com/99914904/187269193-aef2cf3c-bd2f-4885-a688-94026a4f0da9.png)
-![2](https://user-images.githubusercontent.com/99914904/187269205-2cc5a3eb-8980-40ca-add3-dbaf406b24ef.png)
+![1](https://user-images.githubusercontent.com/99914904/187269193-aef2cf3c-bd2f-4885-a688-94026a4f0da9.png) ![2](https://user-images.githubusercontent.com/99914904/187269205-2cc5a3eb-8980-40ca-add3-dbaf406b24ef.png)
 
 </div>
 
