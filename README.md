@@ -1,6 +1,6 @@
 <h1 align="center">spacetraveling</h1>
 
-<h3 align="center">Blog voltado para tecnologias.</h3>
+<h3 align="center">Blog voltado para informações sobre tecnologia.</h3>
 
 <div align="center">
 
