@@ -19,7 +19,7 @@
 
  ```
  # clonar repositório
- $ git clone https://github.com/BiancaHoffer/dt-money.git
+ $ git clone [https://github.com/BiancaHoffer/dt-money.git](https://github.com/BiancaHoffer/spacetraveling.git)
  
  # acessar pasta
  $ cd spacetraveling
